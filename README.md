@@ -56,4 +56,22 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G5.
 | -----------------------------------  | -------- |
 |  SMBIOS Settings  | ⚠️ |
 
-With OpenCore Configuration you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.3
+Advanced tab:  
+Boot options:  
+- Fast Boot = Disabled
+- Network (PXE) Boot = Disabled  
+Secure Boot Configuration:
+- "Legacy Support Enable and Secure Boot Disable"  
+System Options:  
+- Virtualization Technology (VTx) = Disabled (recommended, Enable also worked)
+- Virtualization Technology for Direct I/O (VTd) = Disabled (recommended, Enable also worked)  
+Built-In Device Options:  
+- Wake On LAN = Disabled
+- Video memory size = 64 MB
+- LAN/WLAN Auto Switching = Disabled
+- Fingerprint Device = Disabled  
+Power Management Options:  
+- Extended Idle Power States = Disabled
+- Deep sleep = You can keep this enabled
+- Wake when Lid is Opened = Enabled
+- Wake on USB = Disabled
