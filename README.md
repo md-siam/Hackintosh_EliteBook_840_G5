@@ -56,9 +56,4 @@ OpenCore config for Hackintosh OpenCore HP EliteBook 840 G5.
 | -----------------------------------  | -------- |
 |  SMBIOS Settings  | ⚠️ |
 
-With OpenCore Configurator you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.3
-
-<h1 align="center"> Donate - Bağış </h1>
-<p align="center">
-<a href="https://github.com/yusufklncc/yusufklncc/blob/main/Donate%20-%20Ba%C4%9F%C4%B1%C5%9F.md">
-  <img src="https://github.com/yusufklncc/yusufklncc/blob/main/Resources/Donate.png" width="300">
+With OpenCore Configuration you should definitely set your SMBIOS settings because the config does not contain SMBIOS information MacBook Pro 16.3
